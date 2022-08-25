@@ -8,7 +8,7 @@ function Header (){
                 <h1><span>PRÓTESIS INTELIGENTES</span></h1>
                 <p className='details'>Tenemos las Mejores Prótesis para ti</p>
                 <div className='header-btns'>
-                    <a href='#' className='header-btn'>Comenzar</a>
+                    <a href='' className='header-btn'>Comenzar</a>
                 </div>
             </div>
 
